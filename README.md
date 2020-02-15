@@ -7,7 +7,7 @@ C:\Users\michael
 
 ~ $ cd .\Videos\
 
-~\Videos $ cd ~/ja3_project
+~\Videos $ cd ~\ja3_project
 
 [master] ~\ja3_project $ git checkout -b newBranch
 

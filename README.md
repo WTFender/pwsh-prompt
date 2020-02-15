@@ -11,5 +11,5 @@ C:\Users\michael
 
 [master] ~\ja3_project $ git checkout -b newBranch
 
-[newBranch] ~\ja3_project $ echo 'test'
+[newBranch] ~\ja3_project $ ...
 ```
